@@ -13,7 +13,7 @@ const nextConfig = {
         unoptimized: true,
     },
     output: "export",
-    basePath: isProd ? "/Opsta-Web2026" : "",
+    basePath: isProd ? "/opsta" : "",
 };
 
 export default nextConfig;
